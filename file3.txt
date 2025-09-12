@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-i am fine
-=======
-
->>>>>>> master
+helloooooo....
